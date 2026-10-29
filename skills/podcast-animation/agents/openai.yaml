@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podcast Animation"
+  short_description: "Animate podcast stories and dub them through fal"
+  default_prompt: "Use $podcast-animation to help me choose a podcast clip, define its visual style, animate it through fal, and deliver clean versions in my chosen languages."
